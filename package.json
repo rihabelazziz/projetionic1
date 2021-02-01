@@ -54,5 +54,12 @@
   "description": "An Ionic project",
   "main": "karma.conf.js",
   "keywords": [],
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rihabelazziz/projetionic1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rihabelazziz/projetionic1/issues"
+  }
 }
